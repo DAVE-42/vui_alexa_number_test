@@ -13,10 +13,8 @@ Go to ```lambda/custom``` and install all node modules:
     cd lambda/custom
     npm install
 
-The skill is setup to be installed via the ```ask cli```. First, create a new
-skill in your Amazon developer account. Note the skill id down. Then, open the 
-file ```.ask/config``` and enter skill id behind the entry "skill_id" in quotes.
-Afterwards, run ```ask deploy``` in the root folder of the repo.
+The skill is setup to be installed via the ```ask cli```.
+Run ```ask deploy``` in the root folder of the repo.
 
 If you need support setting up ask cli you may check the quickstart guide located
 here: https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html
