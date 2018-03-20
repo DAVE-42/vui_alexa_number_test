@@ -1,0 +1,241 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "types": [
+        {
+          "name": "CUSTOM_NUMBER",
+          "values": [
+            {"id": "0", "name": { "value": "null", "synonyms": [ "nuhl", "zero", "oh", "nui" ] } },
+            { "id": "1", "name": { "value": "eins", "synonyms": [ "oans", "oins", "eens", "eine" ] }},
+            { "id": "2", "name": { "value": "zwei", "synonyms": [ "zwoa", "zweije", "zweh", "zwo" ] }},
+            { "id": "3", "name": { "value": "drei", "synonyms": [ "drey", "dreije", "trei" ] }},
+            { "id": "4", "name": { "value": "vier", "synonyms": [ "viah", "viere", "fier" ] }},
+            { "id": "5", "name": { "value": "fünf", "synonyms": [ "fümfe", "fünfe", "fümf", "finf" ] }},
+            { "id": "6", "name": { "value": "sechs", "synonyms": [ "sexe" ] }},
+            { "id": "7", "name": { "value": "sieben", "synonyms": [ "simme", "siam", "siehme", "siem" ] }},
+            { "id": "8", "name": { "value": "acht", "synonyms": [ "ocht", "ochte", "achten", "achte", "ochde" ] }},
+            { "id": "9", "name": { "value": "neun", "synonyms": [ "nein", "neine", "noin" ] }},
+            { "id": "10", "name": { "value": "zehn", "synonyms": [ "zenne", "zehne" ] }},
+            { "id": "11", "name": { "value": "elf", "synonyms": [ "elfe", "eyfe" ] }},
+            { "id": "12", "name": { "value": "zwölf", "synonyms": [ "zwölfe", "zwelf"  ] }},
+            { "id": "13", "name": { "value": "dreizehn", "synonyms": [ "dreizene", "dreizen"  ] }},
+            { "id": "14", "name": { "value": "vierzehn", "synonyms": [ "fiazen", "fürzen", "ferzen"  ] }},
+            { "id": "15", "name": { "value": "fünfzehn", "synonyms": [ "fuchzen", "fuchzene", "fuffzen", "finfzen"  ] }},
+            { "id": "16", "name": { "value": "sechzehn", "synonyms": [ "sechzin", "sechzene" ] }},
+            { "id": "17", "name": { "value": "siebzehn", "synonyms": [ "sibzene", "sibzen", "sibzin" ] }},
+            { "id": "18", "name": { "value": "achtzehn", "synonyms": [ "ochzene", "achzen", "ochzen"] }},
+            { "id": "19", "name": { "value": "neunzehn", "synonyms": [ "nainzene", "neinzen"] }},
+            { "id": "20", "name": { "value": "zwanzig", "synonyms": [ "zwansk", "zwansge", "zwansch", "zwansisch"  ] }},
+            { "id": "21", "name": { "value": "einundzwanzig"}},
+            { "id": "22", "name": { "value": "zweiundzwanzig" }},
+            { "id": "23", "name": { "value": "dreiundzwanzig" }},
+            { "id": "24", "name": { "value": "vierundzwanzig" }},
+            { "id": "25", "name": { "value": "fünfundzwanzig" }},
+            { "id": "26", "name": { "value": "sechsundzwanzig" }},
+            { "id": "27", "name": { "value": "siebenundzwanzig" }},
+            { "id": "28", "name": { "value": "achtundzwanzig" }},
+            { "id": "29", "name": { "value": "neunundzwanzig" }},
+            { "id": "30", "name": { "value": "dreißig" }},
+            { "id": "31", "name": { "value": "einunddreißig" }},
+            { "id": "32", "name": { "value": "zweiunddreißig" }},
+            { "id": "33", "name": { "value": "dreiunddreißig" }},
+            { "id": "34", "name": { "value": "vierunddreißig" }},
+            { "id": "35", "name": { "value": "fünfunddreißig" }},
+            { "id": "36", "name": { "value": "sechsunddreißig" }},
+            { "id": "37", "name": { "value": "siebenunddreißig" }},
+            { "id": "38", "name": { "value": "achtunddreißig" }},
+            { "id": "39", "name": { "value": "neununddreißig" }},
+            { "id": "40", "name": { "value": "vierzig" }},
+            { "id": "41", "name": { "value": "einundvierzig" }},
+            { "id": "42", "name": { "value": "zweiundvierzig" }},
+            { "id": "43", "name": { "value": "dreiundvierzig" }},
+            { "id": "44", "name": { "value": "vierundvierzig" }},
+            { "id": "45", "name": { "value": "fünfundvierzig" }},
+            { "id": "46", "name": { "value": "sechsundvierzig" }},
+            { "id": "47", "name": { "value": "siebenundvierzig" }},
+            { "id": "48", "name": { "value": "achtundvierzig" }},
+            { "id": "49", "name": { "value": "neunundvierzig" }},
+            { "id": "50", "name": { "value": "fünfzig" }},
+            { "id": "51", "name": { "value": "einundfünfzig" }},
+            { "id": "52", "name": { "value": "zweiundfünfzig" }},
+            { "id": "53", "name": { "value": "dreiundfünfzig" }},
+            { "id": "54", "name": { "value": "vierundfünfzig" }},
+            { "id": "55", "name": { "value": "fünfundfünfzig" }},
+            { "id": "56", "name": { "value": "sechsundfünfzig" }},
+            { "id": "57", "name": { "value": "siebenundfünfzig" }},
+            { "id": "58", "name": { "value": "achtundfünfzig" }},
+            { "id": "59", "name": { "value": "neunundfünfzig" }},
+            { "id": "60", "name": { "value": "sechzig" }},
+            { "id": "61", "name": { "value": "einundsechzig" }},
+            { "id": "62", "name": { "value": "zweiundsechzig" }},
+            { "id": "63", "name": { "value": "dreiundsechzig" }},
+            { "id": "64", "name": { "value": "vierundsechzig" }},
+            { "id": "65", "name": { "value": "fünfundsechzig" }},
+            { "id": "66", "name": { "value": "sechsundsechzig" }},
+            { "id": "67", "name": { "value": "siebenundsechzig" }},
+            { "id": "68", "name": { "value": "achtundsechzig" }},
+            { "id": "69", "name": { "value": "neunundsechzig" }},
+            { "id": "70", "name": { "value": "siebzig" }},
+            { "id": "71", "name": { "value": "einundsiebzig" }},
+            { "id": "72", "name": { "value": "zweiundsiebzig" }},
+            { "id": "73", "name": { "value": "dreiundsiebzig" }},
+            { "id": "74", "name": { "value": "vierundsiebzig" }},
+            { "id": "75", "name": { "value": "fünfundsiebzig" }},
+            { "id": "76", "name": { "value": "sechsundsiebzig" }},
+            { "id": "77", "name": { "value": "siebenundsiebzig" }},
+            { "id": "78", "name": { "value": "achtundsiebzig" }},
+            { "id": "79", "name": { "value": "neunundsiebzig" }},
+            { "id": "80", "name": { "value": "achtzig" }},
+            { "id": "81", "name": { "value": "einundachtzig" }},
+            { "id": "82", "name": { "value": "zweiundachtzig" }},
+            { "id": "83", "name": { "value": "dreiundachtzig" }},
+            { "id": "84", "name": { "value": "vierundachtzig" }},
+            { "id": "85", "name": { "value": "fünfundachtzig" }},
+            { "id": "86", "name": { "value": "sechsundachtzig" }},
+            { "id": "87", "name": { "value": "siebenundachtzig" }},
+            { "id": "88", "name": { "value": "achtundachtzig" }},
+            { "id": "89", "name": { "value": "neunundachtzig" }},
+            { "id": "90", "name": { "value": "neunzig" }},
+            { "id": "91", "name": { "value": "einundneunzig" }},
+            { "id": "92", "name": { "value": "zweiundneunzig" }},
+            { "id": "93", "name": { "value": "dreiundneunzig" }},
+            { "id": "94", "name": { "value": "vierundneunzig" }},
+            { "id": "95", "name": { "value": "fünfundneunzig" }},
+            { "id": "96", "name": { "value": "sechsundneunzig" }},
+            { "id": "97", "name": { "value": "siebenundneunzig" }},
+            { "id": "98", "name": { "value": "achtundneunzig" }},
+            { "id": "99", "name": { "value": "neunundneunzig" }},
+
+            { "id": "100", "name": { "value": "einhundert", "synonyms": [ "hundert", "hunnert"] } },
+			{ "id": "200", "name": { "value": "zweihundert" }},
+            { "id": "300", "name": { "value": "dreihundert" }},
+            { "id": "400", "name": { "value": "vierhundert" }},
+            { "id": "500", "name": { "value": "fünfhundert" }},
+            { "id": "600", "name": { "value": "sechshundert" }},
+            { "id": "700", "name": { "value": "siebenhundert" }},
+            { "id": "800", "name": { "value": "achthundert" }},
+            { "id": "900", "name": { "value": "neunhundert" }},
+
+            { "id": "1000", "name": { "value": "eintausend", "synonyms": [ "tausend"] } }
+          ]
+        }
+      ],
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "Nein",
+            "Nein Danke",
+            "Nö",
+            "Kein Bedarf"
+          ]
+        },
+        {
+          "name": "NumberTypeOneIntent",
+          "samples": [
+            "Zahlenerkennung für {NUM_A}",
+            "Zahlenerkennung für {NUM_A} {NUM_B}",
+            "Zahlenerkennung für {NUM_A} {NUM_B} ",
+            "Zahlenerkennung für {NUM_A} {NUM_B} {NUM_C}",
+            "Zahlenerkennung für {NUM_A} {NUM_B} {NUM_C} {NUM_D}",
+            "Zahlenerkennung für {NUM_A} {NUM_B} {NUM_C} {NUM_D} {NUM_E}",
+            "Zahlenerkennung für {NUM_A} {NUM_B} {NUM_C} {NUM_D} {NUM_E} {NUM_F}",
+            "Zahlenerkennung für {NUM_A} {NUM_B} {NUM_C} {NUM_D} {NUM_E} {NUM_F} {NUM_G}",
+            "Zahlenerkennung für {NUM_A} {NUM_B} {NUM_C} {NUM_D} {NUM_E} {NUM_F} {NUM_G} {NUM_H}"
+          ],
+          "slots": [
+            {
+              "name": "NUM_A",
+              "type": "CUSTOM_NUMBER"
+            },
+            {
+              "name": "NUM_B",
+              "type": "CUSTOM_NUMBER"
+            },
+            {
+              "name": "NUM_C",
+              "type": "CUSTOM_NUMBER"
+            },
+            {
+              "name": "NUM_D",
+              "type": "CUSTOM_NUMBER"
+            },
+            {
+              "name": "NUM_E",
+              "type": "CUSTOM_NUMBER"
+            },
+            {
+              "name": "NUM_F",
+              "type": "CUSTOM_NUMBER"
+            },
+            {
+              "name": "NUM_G",
+              "type": "CUSTOM_NUMBER"
+            },
+            {
+              "name": "NUM_H",
+              "type": "CUSTOM_NUMBER"
+            }
+          ]
+        },
+        {
+          "name": "NumberTypeTwoIntent",
+          "samples": [
+            "Zahlenerkennung mit Amazon Number für {NUM_TYPEB_A}",
+            "Zahlenerkennung mit Amazon Number für {NUM_TYPEB_A} {NUM_TYPEB_B}",
+            "Zahlenerkennung mit Amazon Number für {NUM_TYPEB_A} {NUM_TYPEB_B} ",
+            "Zahlenerkennung mit Amazon Number für {NUM_TYPEB_A} {NUM_TYPEB_B} {NUM_TYPEB_C}",
+            "Zahlenerkennung mit Amazon Number für {NUM_TYPEB_A} {NUM_TYPEB_B} {NUM_TYPEB_C} {NUM_TYPEB_D}",
+            "Zahlenerkennung mit Amazon Number für {NUM_TYPEB_A} {NUM_TYPEB_B} {NUM_TYPEB_C} {NUM_TYPEB_D} {NUM_TYPEB_E}",
+            "Zahlenerkennung mit Amazon Number für {NUM_TYPEB_A} {NUM_TYPEB_B} {NUM_TYPEB_C} {NUM_TYPEB_D} {NUM_TYPEB_E} {NUM_TYPEB_F}",
+            "Zahlenerkennung mit Amazon Number für {NUM_TYPEB_A} {NUM_TYPEB_B} {NUM_TYPEB_C} {NUM_TYPEB_D} {NUM_TYPEB_E} {NUM_TYPEB_F} {NUM_TYPEB_G}",
+            "Zahlenerkennung mit Amazon Number für {NUM_TYPEB_A} {NUM_TYPEB_B} {NUM_TYPEB_C} {NUM_TYPEB_D} {NUM_TYPEB_E} {NUM_TYPEB_F} {NUM_TYPEB_G} {NUM_TYPEB_H}"
+          ],
+          "slots": [
+            {
+              "name": "NUM_TYPEB_A",
+              "type": "AMAZON.NUMBER"
+            },
+            {
+              "name": "NUM_TYPEB_B",
+              "type": "AMAZON.NUMBER"
+            },
+            {
+              "name": "NUM_TYPEB_C",
+              "type": "AMAZON.NUMBER"
+            },
+            {
+              "name": "NUM_TYPEB_D",
+              "type": "AMAZON.NUMBER"
+            },
+            {
+              "name": "NUM_TYPEB_E",
+              "type": "AMAZON.NUMBER"
+            },
+            {
+              "name": "NUM_TYPEB_F",
+              "type": "AMAZON.NUMBER"
+            },
+            {
+              "name": "NUM_TYPEB_G",
+              "type": "AMAZON.NUMBER"
+            },
+            {
+              "name": "NUM_TYPEB_H",
+              "type": "AMAZON.NUMBER"
+            }
+          ]
+        }        
+      ],
+      "invocationName": "zahlentest"
+    }
+  }
+}

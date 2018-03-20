@@ -1,0 +1,12 @@
+{ 
+    "translation" : { 
+        "WELCOME" : "Dies ist der Zahlen-Erkennungs-Test. Bitte sage zum Beispiel Zahlenerkennung für 15 1 6",
+        "QUIT": "Bis bald.",
+        "NUMBER_RESPONSE": "Ich habe folgende Zahl verstanden: %s! Diese Zahl besteht aus den Eingabeteilen %s! Versuche es gleich noch einmal!",
+        "AMAZON_NUMBER": "Erkennung mit Amazon Number:",
+        "REPROMPT": "Das habe ich nicht verstanden.",
+        "ERROR": "Es ist ein Fehler aufgetreten.",
+        "RETRY": "Soll es weiter gehen?",
+        "HELP": "Dies ist eine Testanwendung für Zahlenerkennung. Sage zum Beispiel Zahlenerkennung für 15 1 6. Oder sage Zahlenerkennung mit Amazon Number für 15 1 6."
+    } 
+}
