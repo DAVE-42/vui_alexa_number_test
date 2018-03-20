@@ -8,6 +8,11 @@ between 1 and 20.
  
 ## Making the skill run
 
+Go to ```lambda/custom``` and install all node modules:
+
+    cd lambda/custom
+    npm install
+
 The skill is setup to be installed via the ```ask cli```. First, create a new
 skill in your Amazon developer account. Note the skill id down. Then, open the 
 file ```.ask/config``` and enter skill id behind the entry "skill_id" in quotes.
@@ -47,3 +52,7 @@ Go to folder ```lambda/custom``` and run
 Go to Amazon Developer Console and enter the ngrok-https-URL as https 
 backend in the configuration settings of your skill. The URL is shown
 in the console after starting ngrok.
+
+## Need help?
+
+Contact us at hello@dave42.com.

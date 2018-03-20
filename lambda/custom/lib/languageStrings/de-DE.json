@@ -7,6 +7,6 @@
         "REPROMPT": "Das habe ich nicht verstanden.",
         "ERROR": "Es ist ein Fehler aufgetreten.",
         "RETRY": "Soll es weiter gehen?",
-        "HELP": "Dies ist eine Testanwendung für Zahlenerkennung. Sage zum Beispiel Zahlenerkennung für 15 1 6. Oder sage Zahlenerkennung mit Amazon Number für 15 1 6."
+        "HELP": "Dies ist eine Testanwendung für Zahlenerkennung. Sage zum Beispiel Zahlenerkennung für 15 1 6! Oder sage Zahlenerkennung mit Amazon Number für 15 1 6!"
     } 
 }
