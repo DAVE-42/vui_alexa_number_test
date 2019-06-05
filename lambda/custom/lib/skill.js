@@ -1,6 +1,6 @@
 module.exports = skill;
 
-const Alexa = require('alexa-sdk');
+const Alexa = require('ask-sdk-v1adapter');
 const baseHandlers = require('./handlers/base');
 const languageStrings = {
   'de-DE': require('./languageStrings/de-DE.json')
