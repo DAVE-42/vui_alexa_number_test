@@ -1,13 +1,13 @@
 {
   "name": "skill-number-detection",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Skill for Number Detection Tests",
   "scripts": {
     "test": "standard"
   },
   "dependencies": {
-    "ask-sdk": "^2.6.0",
-    "ask-sdk-v1adapter": "^2.6.0"
+    "ask-sdk": "^2.7.0",
+    "ask-sdk-v1adapter": "^2.7.0"
   },
   "devDependencies": {
     "body-parser": "^1.18.3",
